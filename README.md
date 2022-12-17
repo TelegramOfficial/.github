@@ -10,5 +10,5 @@
 
 <sub> Copyright © [Telegram Official](https://github.com/TelegramOfficial)
 
-[<img src="https://github.com/TelegramOfficial/.github/blob/main/Assets/PlayStore.png" width="200" height="auto">](https://play.google.com/store/apps/details?id=org.telegram.messenger)
-[<img src="https://github.com/TelegramOfficial/.github/blob/main/Assets/AppStore.png" width="200" height="auto">](https://telegram.org/dl/ios)
+[<img src="https://github.com/TelegramOfficial/.github/blob/main/Assets/Playstore.png" width="200" height="auto">](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+[<img src="https://github.com/TelegramOfficial/.github/blob/main/Assets/Appstore.png" width="200" height="auto">](https://telegram.org/dl/ios)
