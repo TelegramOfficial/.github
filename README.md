@@ -37,11 +37,6 @@
 
 - ***Expressive*** *Telegramlets you completely customize your messenger.*
 
-<div align="center">
-
-<sub> Copyright © [Telegram Official](https://github.com/TelegramOfficial)
-
-</div>
  <details>
 <summary><b>iPhone Screenshots</b></summary>
  <div align="center">
@@ -75,7 +70,15 @@
 <img src="https://play-lh.googleusercontent.com/bDGf2oHe1y_uaFE6XCh2kYicn3-1yiLMTI5hae9s5zMaNPzOpj04An1URWQyw5m5JhA=w1052-h592-rw?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;
 <img src="https://play-lh.googleusercontent.com/v0zodHEHUcMgUZSK490M9L5c3Grk5pkDHL-TTdfQK3098Wg0W2bxbK1-cmgN9aKEuQ=w1052-h592-rw?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;
 
-<img src="https://play-lh.googleusercontent.com/-4x3oxK3bMWXTpwPrlai_HYHcHnH_sa8KvYj5KvYPwjSZV7rsg4kpIafYhfnRvBsUtc=w1052-h592-rw?raw=true" style="width: 79%;margin:16px;" />
+</div>
+</details>
+<div align="center">
+
+<sub> Copyright © [Telegram Official](https://github.com/TelegramOfficial)
+
+<sup>Sponsor [Kx Network](https://github.com/ikx7a/KxNetwork) [<img src="https://github.com/TelegramOfficial/Premium/blob/main/assets/verified.png" width="9" height="auto">](https://github.com/ikx7a)
+
+</div>
 
 
 
